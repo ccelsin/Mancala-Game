@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1644314257 source:c:\users\bill gael\documents\mission\jeu - mancala\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Game.h"
+
+1644314274 c:\users\bill gael\documents\mission\jeu - mancala\game.h
+
+1643913692 c:\users\bill gael\documents\mission\jeu - mancala\game.c
+	<stdio.h>
+	<stdlib.h>
+	"Game.h"
+	"Actions.h"
+
+1644313414 c:\users\bill gael\documents\mission\jeu - mancala\actions.h
+
+1643913534 c:\users\bill gael\documents\mission\jeu - mancala\actions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Actions.h"
+
+1644309786 source:c:\users\bill gael\documents\mission\jeu - mancala\actions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Gotoxy.h"
+	"Actions.h"
+
+1644314486 source:c:\users\bill gael\documents\mission\jeu - mancala\game.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"Game.h"
+	"Actions.h"
+
+1644314274 source:c:\users\bill gael\documents\mission\jeu - mancala\game.h
+
+1644313414 source:c:\users\bill gael\documents\mission\jeu - mancala\actions.h
+
+1644166434 c:\users\bill gael\documents\mission\jeu - mancala\gotoxy.h
+
+1644267929 source:c:\users\bill gael\documents\mission\jeu - mancala\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Gotoxy.h"
+
+1644166434 source:c:\users\bill gael\documents\mission\jeu - mancala\gotoxy.h
+
+1644313386 source:h:\programmes\mission (v8)\jeu - mancala\actions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Gotoxy.h"
+	"Actions.h"
+
+1644170034 h:\programmes\mission (v8)\jeu - mancala\gotoxy.h
+
+1644317014 h:\programmes\mission (v8)\jeu - mancala\actions.h
+
+1644317014 source:h:\programmes\mission (v8)\jeu - mancala\actions.h
+
+1644317874 source:h:\programmes\mission (v8)\jeu - mancala\game.h
+
+1644271529 source:h:\programmes\mission (v8)\jeu - mancala\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Gotoxy.h"
+
+1644170034 source:h:\programmes\mission (v8)\jeu - mancala\gotoxy.h
+
+1644313386 source:d:\desktop\jeu - mancala\actions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Gotoxy.h"
+	"Actions.h"
+
+1644170034 d:\desktop\jeu - mancala\gotoxy.h
+
+1644317014 d:\desktop\jeu - mancala\actions.h
+
+1644317014 source:d:\desktop\jeu - mancala\actions.h
+
+1644318336 source:d:\desktop\jeu - mancala\game.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"Game.h"
+	"Actions.h"
+	"Gotoxy.h"
+
+1644317874 d:\desktop\jeu - mancala\game.h
+
+1644317874 source:d:\desktop\jeu - mancala\game.h
+
+1644271529 source:d:\desktop\jeu - mancala\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Gotoxy.h"
+
+1644170034 source:d:\desktop\jeu - mancala\gotoxy.h
+
+1644318281 source:d:\desktop\jeu - mancala\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Game.h"
+
